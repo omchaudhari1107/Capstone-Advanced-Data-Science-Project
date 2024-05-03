@@ -54,10 +54,11 @@ The project successfully predicts car prices using regression techniques and gai
 ## Setup Instructions
 1. Clone this repository.
 2. Install the required dependencies using pip:
+
     ```bash
     pip install pandas numpy scikit-learn matplotlib
     ```
-3. Run the Jupyter notebook.
+4. Run the Jupyter notebook.
 
 ## Usage
 - Run the cells in the Jupyter notebook sequentially to execute the entire pipeline.
