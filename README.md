@@ -41,7 +41,7 @@ A scatter plot is created to visualize the actual vs. predicted prices.
 
 
 ## Conclusion
-The project successfully predicts car prices using regression techniques and gained **99.99% accuracy**.
+The project successfully predicts car prices using regression techniques and gained **1.00% accuracy**.
 
 ![image](https://github.com/Yashchaudhari29/Capstone-Advanced-Data-Science-Project/assets/119956179/711b980e-07c5-49c4-8f57-f5c6b2597892)
 
