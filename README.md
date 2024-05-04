@@ -16,7 +16,7 @@ This project aims to predict car prices based on various features such as mileag
 10. [Usage](#usage)
 
 ## Importing Data
-The dataset is imported using pandas from "capstone.csv".
+The dataset is imported using pandas from "Clean.csv".
 
 ## Preprocessing
 - Missing values in the 'Levy' column are replaced with NaN and then filled with 0.
@@ -55,7 +55,7 @@ The project successfully predicts car prices using regression techniques and gai
 1. Clone this repository.
 2. Install the required dependencies using pip:
 
-    ```bash
+    ```
     pip install pandas numpy scikit-learn matplotlib
     ```
 4. Run the Jupyter notebook.
